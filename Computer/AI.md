@@ -1,6 +1,6 @@
 ### **1. What does AI stand for and what is its main goal?**
 
-AI stands for **Artificial Intelligence**. Its main goal is to create machines or programs that can **think, learn, and make decisions like humans**.
+AI stands for **Artificial Intelligence**. Its main goal is to create machines or <br>programs that can **think, learn, and make decisions like humans**.
 
 ---
 
