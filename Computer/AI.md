@@ -13,17 +13,17 @@ AI stands for **Artificial Intelligence**. Its main goal is to create machines o
 
 ### **3. Why is AI well-suited for analyzing large amounts of data?**
 
-AI can **process and analyze huge amounts of data quickly** and can **find patterns or insights** that humans might miss.
+AI can **process and analyze huge amounts of data quickly** and <br>can **find patterns or insights** that humans might miss.
 
 ---
 
 ### **4. What is meant by the criticism that AI “cannot think out of the box”?**
 
-It means AI can only work within the **data and rules it was trained on**, and **cannot be truly creative or imaginative** like humans.
+It means AI can only work within the **data and rules it was trained on**, <br>and **cannot be truly creative or imaginative** like humans.
 
 ---
 
 ### **5. If you were to design an AI tool for your school, what would it do and why?**
 
-I would design an AI tool that **helps teachers check assignments and give feedback automatically**, saving time and helping students learn faster.
+I would design an AI tool that **helps teachers check assignments and <br>give feedback automatically**, saving time and helping students learn faster.
 
